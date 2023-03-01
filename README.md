@@ -6,7 +6,7 @@
 <h3 align="center">The API & platform builder, build your apps 10x faster, even more.</h3>
 <p align="center">It's open source & 100% free !</p>
 </br>
-<p>Requires: npm install $ npm run dev $ npm run watch & php artisan serve</p>
+<p>Requires: $ npm install $ npm run dev $ npm run watch & php artisan serve</p>
 <p>Ingredients: content-module,post-module,posty-theme</p>
 
 <p align="center">.env</p>
